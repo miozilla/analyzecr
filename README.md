@@ -4,16 +4,16 @@ analyzecr : | Analyze Customer Reviews | BigQuery ML, Gemini, SQL, Python Notebo
 
 ## Objectives
 - Create Cloud resource connection in BigQuery.
-Create dataset and tables in BigQuery.
-Create Gemini remote models in BigQuery.
-Prompt Gemini to analyze keywords & sentiment (positive or negative) for text-based customer reviews.
-Generate report with a count of positive & negative reviews.
-Respond to customer reviews.
-Prompt Gemini to extract summary & keywords for each customer review image.
-Create BigQuery Python notebook using Colab Enterprise & Cloud Resource connection.
-Create BigQuery dataset, table & Gemini Flash remote model.
-Prompt Gemini to analyze customer reviews for keywords, sentiment & generate report.
-Build customer service application that responds to audio-based customer reviews.
+- Create dataset and tables in BigQuery.
+- Create Gemini remote models in BigQuery.
+- Prompt Gemini to analyze keywords & sentiment (positive or negative) for text-based customer reviews.
+- Generate report with a count of positive & negative reviews.
+- Respond to customer reviews.
+- Prompt Gemini to extract summary & keywords for each customer review image.
+- Create BigQuery Python notebook using Colab Enterprise & Cloud Resource connection.
+- Create BigQuery dataset, table & Gemini Flash remote model.
+- Prompt Gemini to analyze customer reviews for keywords, sentiment & generate report.
+- Build customer service application that responds to audio-based customer reviews.
 
 
 ## Similar Skills Set
@@ -22,3 +22,6 @@ Build customer service application that responds to audio-based customer reviews
 
   
 ## Analyze Customer Reviews with Gemini Using SQL & Python Notebooks  
+...ci/cd in progress...
+
+![analyzecr000.png](./media/analyzecr000.png)

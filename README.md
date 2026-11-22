@@ -1,5 +1,5 @@
 # analyzecr ♊🛍️
-analyzecr : | Analyze Customer Reviews | BigQuery, Gemini, SQL, Python Notebooks, Colab Enterprise |
+analyzecr : | Analyze Customer Reviews | BigQuery ML, Gemini, SQL, Python Notebooks, Colab Enterprise |
 
 
 ## Objectives
